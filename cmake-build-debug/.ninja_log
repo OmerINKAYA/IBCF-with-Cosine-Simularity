@@ -1,0 +1,10 @@
+# ninja log v6
+13	563	7614574776207410	CMakeFiles/IBCF_with_Cosine_Simularity.dir/utils.cpp.obj	8885a81251ee927f
+8	739	7614574776162286	CMakeFiles/IBCF_with_Cosine_Simularity.dir/ibcf.cpp.obj	a43694ed8d1ee99d
+2	803	7614574776102286	CMakeFiles/IBCF_with_Cosine_Simularity.dir/main.cpp.obj	665dab34710c7d65
+804	1036	7614574784122640	IBCF_with_Cosine_Simularity.exe	91c3e000bbb50024
+15	544	7614575035780420	CMakeFiles/IBCF_with_Cosine_Simularity.dir/utils.cpp.obj	8885a81251ee927f
+5	751	7614575035675321	CMakeFiles/IBCF_with_Cosine_Simularity.dir/main.cpp.obj	665dab34710c7d65
+11	713	7614575076369953	CMakeFiles/IBCF_with_Cosine_Simularity.dir/ibcf.cpp.obj	a43694ed8d1ee99d
+5	779	7614575076309991	CMakeFiles/IBCF_with_Cosine_Simularity.dir/main.cpp.obj	665dab34710c7d65
+779	963	7614575084047285	IBCF_with_Cosine_Simularity.exe	91c3e000bbb50024
