@@ -91,3 +91,9 @@ Output file format:
 4.18
 ...
 ```
+---
+
+## 👥 Contributors
+
+- [@OmerINKAYA](https://github.com/OmerINKAYA)
+- [@thecloudrazor](https://github.com/thecloudrazor)
