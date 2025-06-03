@@ -62,19 +62,20 @@ We focused on accuracy, efficiency, and scalability — incorporating smart data
 ---
 
 ## 📦 File Structure
-├── main.cpp              # Main application logic
-├── ibcf.cpp / .h         # Core algorithm: similarity + prediction
-├── utils.cpp / .h        # Helper functions: normalization, average, etc.
+```
+├── main.cpp                  # Main application logic
+├── ibcf.cpp / .h             # Core algorithm: similarity + prediction
+├── utils.cpp / .h            # Helper functions: normalization, average, etc.
 ├── public_training_data.txt  # Optional local test input
 ├── public_test_data.txt      # Optional local test input
-├── CMakeLists.txt        # Build instructions
+├── CMakeLists.txt            # Build instructions
+```
 ---
 
 ## 🧪 Example Usage
 
 **Running from CLI (with local test files):**
 ```bash
-./IBCF_with_Cosine_Simularity
 Input file format (training):
 train dataset
 10 100 4.0
@@ -83,6 +84,8 @@ train dataset
 test dataset
 10 200
 10 201
+...
+
 Output file format:
 3.92
 4.18
