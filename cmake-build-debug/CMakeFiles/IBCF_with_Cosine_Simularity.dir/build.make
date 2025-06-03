@@ -72,60 +72,60 @@ include CMakeFiles/IBCF_with_Cosine_Simularity.dir/flags.make
 CMakeFiles/IBCF_with_Cosine_Simularity.dir/codegen:
 .PHONY : CMakeFiles/IBCF_with_Cosine_Simularity.dir/codegen
 
-CMakeFiles/IBCF_with_Cosine_Simularity.dir/main.cpp.o: CMakeFiles/IBCF_with_Cosine_Simularity.dir/flags.make
-CMakeFiles/IBCF_with_Cosine_Simularity.dir/main.cpp.o: /Users/omerinkaya/Desktop/Projects/CPP/IBCF-with-Cosine-Simularity/main.cpp
-CMakeFiles/IBCF_with_Cosine_Simularity.dir/main.cpp.o: CMakeFiles/IBCF_with_Cosine_Simularity.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/omerinkaya/Desktop/Projects/CPP/IBCF-with-Cosine-Simularity/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/IBCF_with_Cosine_Simularity.dir/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/IBCF_with_Cosine_Simularity.dir/main.cpp.o -MF CMakeFiles/IBCF_with_Cosine_Simularity.dir/main.cpp.o.d -o CMakeFiles/IBCF_with_Cosine_Simularity.dir/main.cpp.o -c /Users/omerinkaya/Desktop/Projects/CPP/IBCF-with-Cosine-Simularity/main.cpp
+CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/main.cpp.o: CMakeFiles/IBCF_with_Cosine_Simularity.dir/flags.make
+CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/main.cpp.o: /Users/omerinkaya/Desktop/Projects/CPP/IBCF-with-Cosine-Simularity/src/main.cpp
+CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/main.cpp.o: CMakeFiles/IBCF_with_Cosine_Simularity.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/omerinkaya/Desktop/Projects/CPP/IBCF-with-Cosine-Simularity/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/main.cpp.o -MF CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/main.cpp.o.d -o CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/main.cpp.o -c /Users/omerinkaya/Desktop/Projects/CPP/IBCF-with-Cosine-Simularity/src/main.cpp
 
-CMakeFiles/IBCF_with_Cosine_Simularity.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/IBCF_with_Cosine_Simularity.dir/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/omerinkaya/Desktop/Projects/CPP/IBCF-with-Cosine-Simularity/main.cpp > CMakeFiles/IBCF_with_Cosine_Simularity.dir/main.cpp.i
+CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/main.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/omerinkaya/Desktop/Projects/CPP/IBCF-with-Cosine-Simularity/src/main.cpp > CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/main.cpp.i
 
-CMakeFiles/IBCF_with_Cosine_Simularity.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/IBCF_with_Cosine_Simularity.dir/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/omerinkaya/Desktop/Projects/CPP/IBCF-with-Cosine-Simularity/main.cpp -o CMakeFiles/IBCF_with_Cosine_Simularity.dir/main.cpp.s
+CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/main.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/omerinkaya/Desktop/Projects/CPP/IBCF-with-Cosine-Simularity/src/main.cpp -o CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/main.cpp.s
 
-CMakeFiles/IBCF_with_Cosine_Simularity.dir/ibcf.cpp.o: CMakeFiles/IBCF_with_Cosine_Simularity.dir/flags.make
-CMakeFiles/IBCF_with_Cosine_Simularity.dir/ibcf.cpp.o: /Users/omerinkaya/Desktop/Projects/CPP/IBCF-with-Cosine-Simularity/ibcf.cpp
-CMakeFiles/IBCF_with_Cosine_Simularity.dir/ibcf.cpp.o: CMakeFiles/IBCF_with_Cosine_Simularity.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/omerinkaya/Desktop/Projects/CPP/IBCF-with-Cosine-Simularity/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/IBCF_with_Cosine_Simularity.dir/ibcf.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/IBCF_with_Cosine_Simularity.dir/ibcf.cpp.o -MF CMakeFiles/IBCF_with_Cosine_Simularity.dir/ibcf.cpp.o.d -o CMakeFiles/IBCF_with_Cosine_Simularity.dir/ibcf.cpp.o -c /Users/omerinkaya/Desktop/Projects/CPP/IBCF-with-Cosine-Simularity/ibcf.cpp
+CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/ibcf.cpp.o: CMakeFiles/IBCF_with_Cosine_Simularity.dir/flags.make
+CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/ibcf.cpp.o: /Users/omerinkaya/Desktop/Projects/CPP/IBCF-with-Cosine-Simularity/src/ibcf.cpp
+CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/ibcf.cpp.o: CMakeFiles/IBCF_with_Cosine_Simularity.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/omerinkaya/Desktop/Projects/CPP/IBCF-with-Cosine-Simularity/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/ibcf.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/ibcf.cpp.o -MF CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/ibcf.cpp.o.d -o CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/ibcf.cpp.o -c /Users/omerinkaya/Desktop/Projects/CPP/IBCF-with-Cosine-Simularity/src/ibcf.cpp
 
-CMakeFiles/IBCF_with_Cosine_Simularity.dir/ibcf.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/IBCF_with_Cosine_Simularity.dir/ibcf.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/omerinkaya/Desktop/Projects/CPP/IBCF-with-Cosine-Simularity/ibcf.cpp > CMakeFiles/IBCF_with_Cosine_Simularity.dir/ibcf.cpp.i
+CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/ibcf.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/ibcf.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/omerinkaya/Desktop/Projects/CPP/IBCF-with-Cosine-Simularity/src/ibcf.cpp > CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/ibcf.cpp.i
 
-CMakeFiles/IBCF_with_Cosine_Simularity.dir/ibcf.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/IBCF_with_Cosine_Simularity.dir/ibcf.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/omerinkaya/Desktop/Projects/CPP/IBCF-with-Cosine-Simularity/ibcf.cpp -o CMakeFiles/IBCF_with_Cosine_Simularity.dir/ibcf.cpp.s
+CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/ibcf.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/ibcf.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/omerinkaya/Desktop/Projects/CPP/IBCF-with-Cosine-Simularity/src/ibcf.cpp -o CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/ibcf.cpp.s
 
-CMakeFiles/IBCF_with_Cosine_Simularity.dir/utils.cpp.o: CMakeFiles/IBCF_with_Cosine_Simularity.dir/flags.make
-CMakeFiles/IBCF_with_Cosine_Simularity.dir/utils.cpp.o: /Users/omerinkaya/Desktop/Projects/CPP/IBCF-with-Cosine-Simularity/utils.cpp
-CMakeFiles/IBCF_with_Cosine_Simularity.dir/utils.cpp.o: CMakeFiles/IBCF_with_Cosine_Simularity.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/omerinkaya/Desktop/Projects/CPP/IBCF-with-Cosine-Simularity/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/IBCF_with_Cosine_Simularity.dir/utils.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/IBCF_with_Cosine_Simularity.dir/utils.cpp.o -MF CMakeFiles/IBCF_with_Cosine_Simularity.dir/utils.cpp.o.d -o CMakeFiles/IBCF_with_Cosine_Simularity.dir/utils.cpp.o -c /Users/omerinkaya/Desktop/Projects/CPP/IBCF-with-Cosine-Simularity/utils.cpp
+CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/utils.cpp.o: CMakeFiles/IBCF_with_Cosine_Simularity.dir/flags.make
+CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/utils.cpp.o: /Users/omerinkaya/Desktop/Projects/CPP/IBCF-with-Cosine-Simularity/src/utils.cpp
+CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/utils.cpp.o: CMakeFiles/IBCF_with_Cosine_Simularity.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/omerinkaya/Desktop/Projects/CPP/IBCF-with-Cosine-Simularity/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/utils.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/utils.cpp.o -MF CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/utils.cpp.o.d -o CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/utils.cpp.o -c /Users/omerinkaya/Desktop/Projects/CPP/IBCF-with-Cosine-Simularity/src/utils.cpp
 
-CMakeFiles/IBCF_with_Cosine_Simularity.dir/utils.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/IBCF_with_Cosine_Simularity.dir/utils.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/omerinkaya/Desktop/Projects/CPP/IBCF-with-Cosine-Simularity/utils.cpp > CMakeFiles/IBCF_with_Cosine_Simularity.dir/utils.cpp.i
+CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/utils.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/utils.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/omerinkaya/Desktop/Projects/CPP/IBCF-with-Cosine-Simularity/src/utils.cpp > CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/utils.cpp.i
 
-CMakeFiles/IBCF_with_Cosine_Simularity.dir/utils.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/IBCF_with_Cosine_Simularity.dir/utils.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/omerinkaya/Desktop/Projects/CPP/IBCF-with-Cosine-Simularity/utils.cpp -o CMakeFiles/IBCF_with_Cosine_Simularity.dir/utils.cpp.s
+CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/utils.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/utils.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/omerinkaya/Desktop/Projects/CPP/IBCF-with-Cosine-Simularity/src/utils.cpp -o CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/utils.cpp.s
 
 # Object files for target IBCF_with_Cosine_Simularity
 IBCF_with_Cosine_Simularity_OBJECTS = \
-"CMakeFiles/IBCF_with_Cosine_Simularity.dir/main.cpp.o" \
-"CMakeFiles/IBCF_with_Cosine_Simularity.dir/ibcf.cpp.o" \
-"CMakeFiles/IBCF_with_Cosine_Simularity.dir/utils.cpp.o"
+"CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/main.cpp.o" \
+"CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/ibcf.cpp.o" \
+"CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/utils.cpp.o"
 
 # External object files for target IBCF_with_Cosine_Simularity
 IBCF_with_Cosine_Simularity_EXTERNAL_OBJECTS =
 
-IBCF_with_Cosine_Simularity: CMakeFiles/IBCF_with_Cosine_Simularity.dir/main.cpp.o
-IBCF_with_Cosine_Simularity: CMakeFiles/IBCF_with_Cosine_Simularity.dir/ibcf.cpp.o
-IBCF_with_Cosine_Simularity: CMakeFiles/IBCF_with_Cosine_Simularity.dir/utils.cpp.o
+IBCF_with_Cosine_Simularity: CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/main.cpp.o
+IBCF_with_Cosine_Simularity: CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/ibcf.cpp.o
+IBCF_with_Cosine_Simularity: CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/utils.cpp.o
 IBCF_with_Cosine_Simularity: CMakeFiles/IBCF_with_Cosine_Simularity.dir/build.make
 IBCF_with_Cosine_Simularity: CMakeFiles/IBCF_with_Cosine_Simularity.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/omerinkaya/Desktop/Projects/CPP/IBCF-with-Cosine-Simularity/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable IBCF_with_Cosine_Simularity"

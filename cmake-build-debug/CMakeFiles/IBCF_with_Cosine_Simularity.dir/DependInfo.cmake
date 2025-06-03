@@ -8,9 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/omerinkaya/Desktop/Projects/CPP/IBCF-with-Cosine-Simularity/ibcf.cpp" "CMakeFiles/IBCF_with_Cosine_Simularity.dir/ibcf.cpp.o" "gcc" "CMakeFiles/IBCF_with_Cosine_Simularity.dir/ibcf.cpp.o.d"
-  "/Users/omerinkaya/Desktop/Projects/CPP/IBCF-with-Cosine-Simularity/main.cpp" "CMakeFiles/IBCF_with_Cosine_Simularity.dir/main.cpp.o" "gcc" "CMakeFiles/IBCF_with_Cosine_Simularity.dir/main.cpp.o.d"
-  "/Users/omerinkaya/Desktop/Projects/CPP/IBCF-with-Cosine-Simularity/utils.cpp" "CMakeFiles/IBCF_with_Cosine_Simularity.dir/utils.cpp.o" "gcc" "CMakeFiles/IBCF_with_Cosine_Simularity.dir/utils.cpp.o.d"
+  "/Users/omerinkaya/Desktop/Projects/CPP/IBCF-with-Cosine-Simularity/src/ibcf.cpp" "CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/ibcf.cpp.o" "gcc" "CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/ibcf.cpp.o.d"
+  "/Users/omerinkaya/Desktop/Projects/CPP/IBCF-with-Cosine-Simularity/src/main.cpp" "CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/main.cpp.o" "gcc" "CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/main.cpp.o.d"
+  "/Users/omerinkaya/Desktop/Projects/CPP/IBCF-with-Cosine-Simularity/src/utils.cpp" "CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/utils.cpp.o" "gcc" "CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/utils.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

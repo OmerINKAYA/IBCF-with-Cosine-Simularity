@@ -1,7 +1,7 @@
 #ifndef IBCF_H
 #define IBCF_H
 
-#include "utils.h"          // for utility functions
+#include "utils.h"
 #include <algorithm>		// for sorting and partial sorting functionality
 
 float cosine_similarity_item(const unsigned short filmIdA, const data_smap &filmA, const unsigned short filmIdB, const data_smap &filmB);

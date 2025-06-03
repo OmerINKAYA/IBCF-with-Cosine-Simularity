@@ -1,0 +1,36 @@
+# === CLion / CMake / Build Outputs ===
+cmake-build-debug/
+build/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+build.ninja
+.ninja_log
+.ninja_deps
+
+# === CLion Specific Files ===
+.idea/
+*.iml
+clion-*.txt
+
+# === Object and Compile Leftovers ===
+*.o
+*.d
+*.exe
+*.out
+*.a
+*.so
+
+# === CMake API Outputs ===
+.cmake/
+
+# === Test / Temp / Debug Files ===
+Testing/
+*.log
+*.tmp
+*.swp
+
+# === Sisteme Özel / IDE Artıkları ===
+.DS_Store
+Thumbs.db

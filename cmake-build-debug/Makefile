@@ -129,77 +129,77 @@ IBCF_with_Cosine_Simularity/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/IBCF_with_Cosine_Simularity.dir/build.make CMakeFiles/IBCF_with_Cosine_Simularity.dir/build
 .PHONY : IBCF_with_Cosine_Simularity/fast
 
-ibcf.o: ibcf.cpp.o
-.PHONY : ibcf.o
+src/ibcf.o: src/ibcf.cpp.o
+.PHONY : src/ibcf.o
 
 # target to build an object file
-ibcf.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/IBCF_with_Cosine_Simularity.dir/build.make CMakeFiles/IBCF_with_Cosine_Simularity.dir/ibcf.cpp.o
-.PHONY : ibcf.cpp.o
+src/ibcf.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/IBCF_with_Cosine_Simularity.dir/build.make CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/ibcf.cpp.o
+.PHONY : src/ibcf.cpp.o
 
-ibcf.i: ibcf.cpp.i
-.PHONY : ibcf.i
+src/ibcf.i: src/ibcf.cpp.i
+.PHONY : src/ibcf.i
 
 # target to preprocess a source file
-ibcf.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/IBCF_with_Cosine_Simularity.dir/build.make CMakeFiles/IBCF_with_Cosine_Simularity.dir/ibcf.cpp.i
-.PHONY : ibcf.cpp.i
+src/ibcf.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/IBCF_with_Cosine_Simularity.dir/build.make CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/ibcf.cpp.i
+.PHONY : src/ibcf.cpp.i
 
-ibcf.s: ibcf.cpp.s
-.PHONY : ibcf.s
+src/ibcf.s: src/ibcf.cpp.s
+.PHONY : src/ibcf.s
 
 # target to generate assembly for a file
-ibcf.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/IBCF_with_Cosine_Simularity.dir/build.make CMakeFiles/IBCF_with_Cosine_Simularity.dir/ibcf.cpp.s
-.PHONY : ibcf.cpp.s
+src/ibcf.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/IBCF_with_Cosine_Simularity.dir/build.make CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/ibcf.cpp.s
+.PHONY : src/ibcf.cpp.s
 
-main.o: main.cpp.o
-.PHONY : main.o
+src/main.o: src/main.cpp.o
+.PHONY : src/main.o
 
 # target to build an object file
-main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/IBCF_with_Cosine_Simularity.dir/build.make CMakeFiles/IBCF_with_Cosine_Simularity.dir/main.cpp.o
-.PHONY : main.cpp.o
+src/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/IBCF_with_Cosine_Simularity.dir/build.make CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/main.cpp.o
+.PHONY : src/main.cpp.o
 
-main.i: main.cpp.i
-.PHONY : main.i
+src/main.i: src/main.cpp.i
+.PHONY : src/main.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/IBCF_with_Cosine_Simularity.dir/build.make CMakeFiles/IBCF_with_Cosine_Simularity.dir/main.cpp.i
-.PHONY : main.cpp.i
+src/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/IBCF_with_Cosine_Simularity.dir/build.make CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/main.cpp.i
+.PHONY : src/main.cpp.i
 
-main.s: main.cpp.s
-.PHONY : main.s
+src/main.s: src/main.cpp.s
+.PHONY : src/main.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/IBCF_with_Cosine_Simularity.dir/build.make CMakeFiles/IBCF_with_Cosine_Simularity.dir/main.cpp.s
-.PHONY : main.cpp.s
+src/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/IBCF_with_Cosine_Simularity.dir/build.make CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/main.cpp.s
+.PHONY : src/main.cpp.s
 
-utils.o: utils.cpp.o
-.PHONY : utils.o
+src/utils.o: src/utils.cpp.o
+.PHONY : src/utils.o
 
 # target to build an object file
-utils.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/IBCF_with_Cosine_Simularity.dir/build.make CMakeFiles/IBCF_with_Cosine_Simularity.dir/utils.cpp.o
-.PHONY : utils.cpp.o
+src/utils.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/IBCF_with_Cosine_Simularity.dir/build.make CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/utils.cpp.o
+.PHONY : src/utils.cpp.o
 
-utils.i: utils.cpp.i
-.PHONY : utils.i
+src/utils.i: src/utils.cpp.i
+.PHONY : src/utils.i
 
 # target to preprocess a source file
-utils.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/IBCF_with_Cosine_Simularity.dir/build.make CMakeFiles/IBCF_with_Cosine_Simularity.dir/utils.cpp.i
-.PHONY : utils.cpp.i
+src/utils.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/IBCF_with_Cosine_Simularity.dir/build.make CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/utils.cpp.i
+.PHONY : src/utils.cpp.i
 
-utils.s: utils.cpp.s
-.PHONY : utils.s
+src/utils.s: src/utils.cpp.s
+.PHONY : src/utils.s
 
 # target to generate assembly for a file
-utils.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/IBCF_with_Cosine_Simularity.dir/build.make CMakeFiles/IBCF_with_Cosine_Simularity.dir/utils.cpp.s
-.PHONY : utils.cpp.s
+src/utils.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/IBCF_with_Cosine_Simularity.dir/build.make CMakeFiles/IBCF_with_Cosine_Simularity.dir/src/utils.cpp.s
+.PHONY : src/utils.cpp.s
 
 # Help Target
 help:
@@ -210,15 +210,15 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... IBCF_with_Cosine_Simularity"
-	@echo "... ibcf.o"
-	@echo "... ibcf.i"
-	@echo "... ibcf.s"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
-	@echo "... utils.o"
-	@echo "... utils.i"
-	@echo "... utils.s"
+	@echo "... src/ibcf.o"
+	@echo "... src/ibcf.i"
+	@echo "... src/ibcf.s"
+	@echo "... src/main.o"
+	@echo "... src/main.i"
+	@echo "... src/main.s"
+	@echo "... src/utils.o"
+	@echo "... src/utils.i"
+	@echo "... src/utils.s"
 .PHONY : help
 
 

@@ -11,8 +11,8 @@
  Course Instructor:	Dr. Tevfik Aytekin
 */
 
-#include "ibcf.h"           // for Item-Based Collaborative Filtering
-#include "utils.h"          // for utility functions
+#include "ibcf.h"
+#include "utils.h"
 #include <iostream>			// for standard input/output operations
 #include <fstream>          // for file input/output operations
 #include <sstream>			// for Istream string usage for parsing input
@@ -63,8 +63,8 @@ int main() {
         }
 
     } else {             // ...public_training_data.txt / public_test_data.txt input...
-        ifstream train_file("public_training_data.txt");
-        ifstream test_file("public_test_data.txt");
+        ifstream train_file("data/public_training_data.txt");
+        ifstream test_file("data/public_test_data.txt");
         if (!train_file || !test_file) {
             cerr << "Error opening input files.\n";
             return 1;
