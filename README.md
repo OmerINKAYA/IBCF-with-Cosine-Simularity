@@ -62,14 +62,24 @@ We focused on accuracy, efficiency, and scalability — incorporating smart data
 ---
 
 ## 📦 File Structure
+
 ```
-├── main.cpp                  # Main application logic
-├── ibcf.cpp / .h             # Core algorithm: similarity + prediction
-├── utils.cpp / .h            # Helper functions: normalization, average, etc.
-├── public_training_data.txt  # Optional local test input
-├── public_test_data.txt      # Optional local test input
-├── CMakeLists.txt            # Build instructions
+IBCF-with-Cosine-Similarity/
+├── CMakeLists.txt                # Build instructions
+├── LICENSE                      # License information
+├── README.md                    # Project description and usage
+├── data/                        # Dataset folder
+│   ├── public_training_data.txt  # Training input data
+│   └── public_test_data.txt      # Test input data
+├── src/                         # Source code folder
+│   ├── main.cpp                  # Main application logic
+│   ├── ibcf.cpp                  # Core algorithm: similarity + prediction
+│   ├── ibcf.h
+│   ├── utils.cpp                 # Helper functions: normalization, average, etc.
+│   └── utils.h
+└── cmake-build-debug/           # CLion auto-generated build files (ignored in VCS)
 ```
+
 ---
 
 ## 🧪 Example Usage
