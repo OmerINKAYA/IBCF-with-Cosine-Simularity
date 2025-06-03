@@ -1,3 +1,3 @@
-C:/Users/OmerINKAYA/CLionProjects/IBCF-with-Cosine-Simularity/cmake-build-debug/CMakeFiles/IBCF_with_Cosine_Simularity.dir
-C:/Users/OmerINKAYA/CLionProjects/IBCF-with-Cosine-Simularity/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/OmerINKAYA/CLionProjects/IBCF-with-Cosine-Simularity/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/omerinkaya/Desktop/Projects/CPP/IBCF-with-Cosine-Simularity/cmake-build-debug/CMakeFiles/IBCF_with_Cosine_Simularity.dir
+/Users/omerinkaya/Desktop/Projects/CPP/IBCF-with-Cosine-Simularity/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/omerinkaya/Desktop/Projects/CPP/IBCF-with-Cosine-Simularity/cmake-build-debug/CMakeFiles/rebuild_cache.dir
